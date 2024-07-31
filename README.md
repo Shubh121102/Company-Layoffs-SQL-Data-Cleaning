@@ -1,4 +1,4 @@
-# SQL-Data-Cleaning
+# Company-Layoffs-SQL-Data-Cleaning
 
 In this project we work on CLeaning data using SQL.
 We use the following steps in the Data Cleaning Process.
